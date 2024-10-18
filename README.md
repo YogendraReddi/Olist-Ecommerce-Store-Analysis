@@ -1,8 +1,10 @@
-# Olist E-commerce-Store-Analysis using Tableau
+# Olist E-commerce-Store-Analysis using PowerBI and Tableau 
 ## This repository contains an analysis of the Olist e-commerce dataset, providing key insights into the performance of sellers, products, and customer behaviors on the platform.
 
 # Visualisation
-
+### PowerBI
+![PowerBI Visual](https://github.com/user-attachments/assets/6742226f-0c4e-4496-a1d4-34b021dad71b)
+### Tableau
 ![Tableau Visual](https://github.com/user-attachments/assets/a18ce17a-7715-4c4c-b1a3-f0f0d4397d18)
 
 
@@ -23,7 +25,7 @@
 ### Sales Trends: Sum of sales over weekdays and Weekends.
 
 ## Tools
-### 1. Excel 2. Tableau
+### 1. Excel 2. Tableau 3. PowerBI
 
 ## Insights
 ### Revenue Concentration: A small number of sellers generate a large proportion of total revenue.
